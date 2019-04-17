@@ -1,4 +1,4 @@
-package spack
+package tpack
 
 import "fmt"
 
